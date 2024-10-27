@@ -17,7 +17,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final ThemeController themeController = Get.find();
 
-  DateTime selectedDate = DateTime(2024, 11, 11);
+  DateTime selectedDate = DateTime(2024, 10, 28);
 
   bool isPowerActive = false;
 
