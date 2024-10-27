@@ -1,16 +1,15 @@
 # stromleser
 
-A new Flutter project.
+Model Application for stromleser 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+About System Configs 
+Flutter version: 3.22.3
+Dart Version: 3.4.4 
 
-A few resources to get you started if this is your first Flutter project:
+project Images : 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![stromles (1)](https://github.com/user-attachments/assets/dd4fde51-8d59-42ad-bd7a-f0db71cbb87e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  
